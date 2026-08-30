@@ -1,8 +1,3 @@
-package CDAC-Sunbeam-Preparatory_Assignment;
-
-public class Q12ReverseString {
-  
-}
 import java.util.Scanner;
 
 class ReverseString {
